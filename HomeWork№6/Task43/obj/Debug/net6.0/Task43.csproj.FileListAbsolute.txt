@@ -1,0 +1,15 @@
+E:\GeekBrains\C#\HomeWork№6\Task43\obj\Debug\net6.0\Task43.csproj.AssemblyReference.cache
+E:\GeekBrains\C#\HomeWork№6\Task43\obj\Debug\net6.0\Task43.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C#\HomeWork№6\Task43\obj\Debug\net6.0\Task43.AssemblyInfoInputs.cache
+E:\GeekBrains\C#\HomeWork№6\Task43\obj\Debug\net6.0\Task43.AssemblyInfo.cs
+E:\GeekBrains\C#\HomeWork№6\Task43\obj\Debug\net6.0\Task43.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C#\HomeWork№6\Task43\bin\Debug\net6.0\Task43.exe
+E:\GeekBrains\C#\HomeWork№6\Task43\bin\Debug\net6.0\Task43.deps.json
+E:\GeekBrains\C#\HomeWork№6\Task43\bin\Debug\net6.0\Task43.runtimeconfig.json
+E:\GeekBrains\C#\HomeWork№6\Task43\bin\Debug\net6.0\Task43.dll
+E:\GeekBrains\C#\HomeWork№6\Task43\bin\Debug\net6.0\Task43.pdb
+E:\GeekBrains\C#\HomeWork№6\Task43\obj\Debug\net6.0\Task43.dll
+E:\GeekBrains\C#\HomeWork№6\Task43\obj\Debug\net6.0\refint\Task43.dll
+E:\GeekBrains\C#\HomeWork№6\Task43\obj\Debug\net6.0\Task43.pdb
+E:\GeekBrains\C#\HomeWork№6\Task43\obj\Debug\net6.0\Task43.genruntimeconfig.cache
+E:\GeekBrains\C#\HomeWork№6\Task43\obj\Debug\net6.0\ref\Task43.dll
